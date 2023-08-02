@@ -15,6 +15,11 @@ I am a software engineer who specializes in Site Reliability Engineering (SRE) a
 | OS | Linux, MacOS, RaspberryPi OS |
 
 
+## Certification
+- AWS Certified, Solutions Architect - Professional (SAP-C02)
+- AWS Certified, Database - Specialty (DBS-C01)
+- IPA Software Design & Development Engineer Examination
+
 ## Achievements
 ### Refactoring applications written in Vue.js Options API to Composition API
 The difficulty of reusability and testing of the Options API and the complexity of code due to its large size have caused a decline in development productivity, and the Composition API was adopted to address these issues. By taking advantage of the characteristics of function-based APIs, logic reuse and testing became easier, and code readability was improved. This greatly improved maintainability and development efficiency.
